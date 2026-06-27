@@ -38,13 +38,14 @@ tkinter
 wikipedia
 
 webbrowser
-
+```
 📁 Project Structure
 Virtual-Assistant/
 │
 ├── assistant.py        # Main Python file
 ├── README.md           # Project documentation
 └── requirements.txt    # Dependencies (optional)
+```
 
 ⚙️ Installation & Setup Instructions
 1️⃣ Clone the Repository
